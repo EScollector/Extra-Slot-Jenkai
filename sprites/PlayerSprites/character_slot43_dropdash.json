@@ -1,0 +1,6 @@
+{
+	"character_slot43_dropdash_0":  { "File": "character_slot43_dropdash.bmp", "Rect": "0,0,40,39", "Center": "20,20" },
+	"character_slot43_dropdash_1":  { "File": "character_slot43_dropdash.bmp", "Rect": "42,0,41,40", "Center": "23,20" },
+	"character_slot43_dropdash_2":  { "File": "character_slot43_dropdash.bmp", "Rect": "85,0,40,40", "Center": "21,20" },
+	"character_slot43_dropdash_3":  { "File": "character_slot43_dropdash.bmp", "Rect": "133,0,40,41", "Center": "17,20" }
+}

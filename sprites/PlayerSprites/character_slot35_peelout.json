@@ -1,0 +1,6 @@
+{
+	"character_slot35_peelout_0":  { "File": "character_slot35_peelout.bmp", "Rect": "0,0,55,40", "Center": "31,20" },
+	"character_slot35_peelout_1":  { "File": "character_slot35_peelout.bmp", "Rect": "69,0,46,40", "Center": "22,21" },
+	"character_slot35_peelout_2":  { "File": "character_slot35_peelout.bmp", "Rect": "125,0,52,40", "Center": "28,20" },
+	"character_slot35_peelout_3":  { "File": "character_slot35_peelout.bmp", "Rect": "191,0,40,40", "Center": "22,21" }
+}

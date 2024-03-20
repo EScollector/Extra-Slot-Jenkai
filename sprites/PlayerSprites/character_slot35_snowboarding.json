@@ -1,0 +1,14 @@
+{
+	"character_slot35_snowboarding_0x01":  { "File": "character_slot35_snowboarding.bmp", "Rect": "4,0,48,64", "Center": "22,36" },
+	"character_slot35_snowboarding_0x02":  { "File": "character_slot35_snowboarding.bmp", "Rect": "68,0,32,60", "Center": "16,22" },
+	"character_slot35_snowboarding_0x03":  { "File": "character_slot35_snowboarding.bmp", "Rect": "116,0,48,58", "Center": "23,27" },
+	"character_slot35_snowboarding_0x04":  { "File": "character_slot35_snowboarding.bmp", "Rect": "176,0,40,61", "Center": "21,27" },
+	"character_slot35_snowboarding_0x05":  { "File": "character_slot35_snowboarding.bmp", "Rect": "232,0,40,60", "Center": "19,26" },
+	"character_slot35_snowboarding_0x06":  { "File": "character_slot35_snowboarding.bmp", "Rect": "280,8,56,44", "Center": "28,21" },
+	"character_slot35_snowboarding_0x07":  { "File": "character_slot35_snowboarding.bmp", "Rect": "336,7,56,45", "Center": "28,22" },
+	"character_slot35_snowboarding_0x08":  { "File": "character_slot35_snowboarding.bmp", "Rect": "394,4,53,48", "Center": "26,23" },
+	"character_slot35_snowboarding_0x09":  { "File": "character_slot35_snowboarding.bmp", "Rect": "452,0,48,59", "Center": "27,21" },
+	"character_slot35_snowboarding_0x0a":  { "File": "character_slot35_snowboarding.bmp", "Rect": "504,0,56,57", "Center": "34,25" },
+	"character_slot35_snowboarding_0x0b":  { "File": "character_slot35_snowboarding.bmp", "Rect": "560,4,56,51", "Center": "28,21" },
+	"character_slot35_snowboarding_0x0c":  { "File": "character_slot35_snowboarding.bmp", "Rect": "616,4,56,56", "Center": "26,22" }
+}
