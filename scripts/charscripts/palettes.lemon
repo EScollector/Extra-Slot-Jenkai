@@ -1,0 +1,21 @@
+global u16 SonicPalette
+
+function u64 getCharacterPaletteKey(u8 character)
+{
+	if (XtraChar == 43 && character == CHARACTER_SONIC)
+	{
+		if (SonicPalette == 0x00)
+		{
+			return "character_palette_slot43_1" // s3
+		}
+		if (SonicPalette == 0x01)
+		{
+			return "character_palette_slot43" // sg/su
+		}
+		if (SonicPalette == 0x02)
+		{
+			return "character_palette_slot43_3" // cgi
+		}						
+	}
+	return base.getCharacterPaletteKey(character)
+}

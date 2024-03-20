@@ -1,0 +1,15 @@
+function string getCharacterSpriteKey(u8 character)
+
+{
+
+if (global.xtrachar == 43 && character == CHARACTER_SONIC && char.state == 0x31)
+
+{
+
+return "slot43"
+
+}
+
+return base.getCharacterSpriteKey(character)
+
+}

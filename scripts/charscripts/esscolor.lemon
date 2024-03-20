@@ -1,0 +1,9 @@
+```
+function s32 ESS_saveBoxGetColor_Es(u8 ES_val)
+{
+    if (ES_val == 43)
+        return 0x661827
+    
+    return base.ESS_saveBoxGetColor_Es(ES_val)
+}
+```

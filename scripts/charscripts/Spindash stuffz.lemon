@@ -1,0 +1,16 @@
+local spindashCharged = false
+
+function onInputUpdate()
+    -- Check if the player presses or holds the spindash button
+    if Input.getBool(0, "X") then
+        -- Charge the spindash
+        player.chargeSpinDash()
+        spindashCharged = true
+    else
+        -- Release and execute the spindash if it's charged
+        if spindashCharged then
+            player.releaseSpinDash()
+            spindashCharged = false
+        end
+    end
+end

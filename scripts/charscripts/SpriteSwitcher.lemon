@@ -1,0 +1,15 @@
+global bool SonicSprite
+
+global u8 anim
+
+function string getCharacterSpriteKey(u8 character, bool isSuperActive)
+{
+    if (character == CHARACTER_SONIC && global.xtrachar == 43 && char.state != 0x31)
+    {
+		if (SonicSprite == 0)
+			return (super.active) ? "character_superslot43" : "character_slot43"
+		if (SonicSprite == 1)
+			return (super.active) ? "character_superremix" : "character_remix"
+    }
+    return base.getCharacterSpriteKey(character, isSuperActive)
+}

@@ -1,0 +1,6 @@
+function string ExtraChar.getCharacterName(u8 xtrachar)
+{
+    if (xtrachar == 43)
+        return "Jenkai"
+    return base.ExtraChar.getCharacterName(xtrachar)
+}

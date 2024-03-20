@@ -1,0 +1,8 @@
+function string getESCharacterFallSpriteKey(u8 character, u8 extrachar)
+{
+	if (extrachar == 43 && character == CHARACTER_SONIC)
+	{
+		return (super.active) ? "ES43_Superfalling_anim" : "ES43_falling_anim"
+	}
+	return base.getESCharacterFallSpriteKey(character, extrachar)
+}
