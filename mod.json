@@ -1,0 +1,32 @@
+{
+	"Metadata":
+	{
+		"Name": "Extra Slot Jenkai",
+		"Author": "Team Eclipes, ES Collector",
+		"Description": "Jenkai The Electrohog finds himself washed up on Angel Island, unsure how how he got washed up, he gets up and looks for adventure.",
+		"URL": "https://sonic3air.org",
+		"ModVersion": "Beta",
+		"GameVersion": "Latest?"
+	},
+	"Settings":
+	{
+		"List":
+		[
+
+			{
+			"InternalName": "Sonic",
+			"DisplayName": "Jenkai",
+            "Category": "Suggestions?",
+			"Variable": "SonicPalette",
+			"DefaultValue": "0",
+			"Options":
+			        {
+				"0x00": "Let",
+				"0x01": "Me",
+                "0x02": "Know"
+	            	}
+			}
+		
+		]
+	}
+}
